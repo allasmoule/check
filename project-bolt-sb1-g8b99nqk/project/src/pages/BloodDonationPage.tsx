@@ -129,7 +129,7 @@ const BloodDonationPage: React.FC = () => {
       bloodGroup: 'B-',
       location: 'চট্টগ্রাম মেডিক্যাল কলেজ',
       urgency: 'অতি জরুরি',
-      contact: '০১৮৮৭৬৫৪ৣ২১',
+      contact: '০১৮৮৭৬৫৪৩২১',
       needed: '৩ ব্যাগ',
       date: 'আজ',
       hospital: 'চট্টগ্রাম মেডিক্যাল কলেজ হাসপাতাল',

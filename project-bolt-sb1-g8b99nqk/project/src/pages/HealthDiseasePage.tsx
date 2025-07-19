@@ -567,6 +567,7 @@ const UnifiedHealthChatbot: React.FC<{
 
   const generateAIResponse = async (message: string) => {
     try {
+      const { generateHealthResponse } = await import('../utils/geminiApi');
       const response = await generateHealthResponse(message, 'general-health');
       
       const botMessage: Message = {
