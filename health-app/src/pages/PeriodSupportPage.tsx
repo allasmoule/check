@@ -63,7 +63,7 @@ const PeriodSupportPage: React.FC = () => {
 
   const myths = [
     {
-      myth: 'You can't exercise during periods',
+      myth: 'You can\'t exercise during periods',
       fact: 'Light to moderate exercise can actually help reduce cramps and improve mood.'
     },
     {
